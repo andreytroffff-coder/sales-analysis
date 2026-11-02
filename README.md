@@ -13,7 +13,7 @@
 4. Запустить скрипт:
 
    ```bash
-   python main.py
+   python script.py
    ```
 
 Результат будет сохранён в файл `daily_by_sku.csv` в той же папке.
